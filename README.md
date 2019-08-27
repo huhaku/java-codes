@@ -1,2 +1,2 @@
-# java-codes
-java复习笔记
+# java复习笔记
+用思维导图记录下java复习中需要记的知识点
